@@ -1,0 +1,22 @@
+.mailList {
+  flex: 1;
+  /* position: relative; */
+}
+
+.mailList__settings {
+  display: flex;
+  justify-content: space-between;
+  /* position: static;
+  top: 0; */
+  border-bottom: 1px solid whitesmoke;
+  z-index: 999;
+}
+
+.settings__middle {
+  display: flex;
+  /* position: sticky;
+  top: 0; */
+  border-bottom: 1px solid whitesmoke;
+  background: white;
+  z-index: 999;
+}
