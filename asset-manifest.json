@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Gmail_clone/static/css/main.48ca8f2d.css",
+    "main.js": "/Gmail_clone/static/js/main.6610fe41.js",
+    "static/media/gmail_google_icon.png": "/Gmail_clone/static/media/gmail_google_icon.662516f2172b9552fa47.png",
+    "index.html": "/Gmail_clone/index.html",
+    "main.48ca8f2d.css.map": "/Gmail_clone/static/css/main.48ca8f2d.css.map",
+    "main.6610fe41.js.map": "/Gmail_clone/static/js/main.6610fe41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ca8f2d.css",
+    "static/js/main.6610fe41.js"
+  ]
+}
